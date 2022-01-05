@@ -34,3 +34,13 @@ A dungeon game where a player must traverse through the maze, designed using Kru
 ![Screenshot-2](./res/github-screenshots/img-2.png)
 ![Screenshot-3](./res/github-screenshots/img-3.png)
 ![Screenshot-4](./res/github-screenshots/img-4.png)
+
+## Bibliography
+Few links that were particularly helpful during the development of this project:
+- [Testing random number generator](https://softwareengineering.stackexchange.com/questions/356456/testing-a-function-that-uses-random-number-generator)
+- [Finding shortest path in unweighted graph](https://www.geeksforgeeks.org/shortest-path-unweighted-graph/)
+- [Simple Kruskal algorithm implementation](https://www.geeksforgeeks.org/kruskals-algorithm-simple-implementation-for-adjacency-matrix/)
+- [GridLayout for Maze UI](https://stackoverflow.com/questions/28035085/using-gridlayout-how-to-set-jpanel-size)
+- [Setting mouse click listener in GridLayout](https://stackoverflow.com/questions/8127418/gridlayout-mouse-listener)
+- [Making internal JPanel scrollable](https://stackoverflow.com/questions/3279991/add-a-scrollable-jpanel-to-a-gridlayout)
+- [Java Swing Menubar](https://www.geeksforgeeks.org/java-swing-jmenubar/)
