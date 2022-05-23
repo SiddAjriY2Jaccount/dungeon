@@ -24,8 +24,8 @@ A dungeon game where a player must traverse through the maze, designed using Kru
 
 ## Concepts used
 - Kruskal's algorithm: For maze construction.
-- BFS: To check and ensure that the randomly chosen start and end nodes for a game are atleast 5-hop distance away from each other.
-- MVC: Design pattern followed to structure code modules.
+- BFS (Breadth First Search): To check and ensure that the randomly chosen start and end nodes for a game are atleast 5-hop distance away from each other.
+- MVC (Model-View-Controller): Design pattern followed to structure code modules.
 
 ## Contributors
 [Siddhanth Jayaraj Ajri](https://github.com/SiddAjriY2Jaccount)
